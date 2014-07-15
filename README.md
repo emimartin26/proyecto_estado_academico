@@ -1,2 +1,2 @@
-proyecto_estado_academico
+Proyecto Open Source para la gestion del estado academico de un alumno.
 =========================
